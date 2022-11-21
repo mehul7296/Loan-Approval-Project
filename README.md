@@ -1,1 +1,2 @@
 # Loan-Approval-Project
+The goal of this project is to automate the loan eligibility process based on customer details provided. The details (columns) are Unique Identifier of Loan, Gender, Marital Status, No. of Dependents, Education level, Self-Employment Status, Income of applicant, Income of co-applicant, Amount of Loan, Term of Loan Amount, Credit History, Type of Property Area and Loan Status (i.e. target column). The data is downloaded from Kaggle. For reference, https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset
